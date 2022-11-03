@@ -3,6 +3,7 @@
 VIDEO DEMO: https://youtu.be/ZJR9mYGSZ9s
 
 This is a STACK implementation on FPGA. 
+The main idea is to visualize the process and implementaition of STACK through LEDs.
 The user will first press push button 0 to capture the value. A deboeuncer is used to only accept one input per button push. The user will then 
 press the push button 1 to pop the most recent value on top of the stack and display it on the 4 LEDs.
 
